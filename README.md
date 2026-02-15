@@ -1,5 +1,9 @@
 <h1 align="center">Plane Smoke Script</h1>
 
+https://github.com/user-attachments/assets/3379e7ac-5499-4290-9b3c-61cd29c04c5a
+
+https://github.com/user-attachments/assets/9d33ee38-d41f-4595-9379-4018ce0918e0
+
 ## Overview
 
 * This script made by Rockstar convert in Lua is a simple plane smoke in GTA Online
